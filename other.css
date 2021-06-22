@@ -1,0 +1,38 @@
+body {
+    font-family: cursive;
+    background-color: rgb(234, 134, 243);
+    font-size: medium;
+    margin: 0px;
+}
+
+a:link {
+    color: #29720c;
+}
+
+a:visited {
+    color: rgb(59, 167, 131);
+}
+
+.menu {
+    background-color: rgb(221, 240, 226);
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: 400;
+    color: black;
+}
+
+.extra {
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 750px;
+    height: 250px;
+    padding: 50px;
+    background-color: mistyrose;
+    opacity: 1;
+    font-size: 15px;
+    font-weight: bold;
+}
