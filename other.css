@@ -24,14 +24,11 @@ a:visited {
 }
 
 .extra {
-    border: 1px solid black;
-    border-radius: 20px;
     margin-top: 10px;
     margin-bottom: 10px;
     width: 750px;
     height: 250px;
     padding: 50px;
-    background-color: mistyrose;
     opacity: 1;
     font-size: 15px;
     font-weight: bold;
